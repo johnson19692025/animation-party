@@ -1,0 +1,29 @@
+{
+  "videos": [
+    {
+      "id": "e6d3033f-8179-4b63-afdc-57d20c50bcca",
+      "youtubeId": "0DiauxTEIGU",
+      "url": "https://youtu.be/0DiauxTEIGU?si=6qGM0Ny1xd-UiZZ0",
+      "title": " Blender燈光設計",
+      "keywords": [
+        "Blender",
+        "Lighting",
+        "燈光",
+        "HDRI燈光",
+        "三點打燈",
+        "GOBO貼圖"
+      ],
+      "createdAt": "2026-07-05T03:39:22.481Z"
+    },
+    {
+      "id": "9c0035c8-5282-4158-a8ac-e9a2f11c1ccb",
+      "youtubeId": "5c5MCbhUs5w",
+      "url": "https://youtu.be/5c5MCbhUs5w?si=fG3OkHuHe9ljr0u8",
+      "title": "Blender元件組合成模型",
+      "keywords": [
+        "樂高"
+      ],
+      "createdAt": "2026-07-05T03:55:50.448Z"
+    }
+  ]
+}
