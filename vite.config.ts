@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:'aniamtion-party',
+    base:'/aniamtion-party/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
